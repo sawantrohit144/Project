@@ -17,8 +17,9 @@ class Login extends React.Component{
                         <div className="main-row-text">
                             <h1>Music for everyone</h1>
                             <p>Without music, life would be a mistake</p>
+                            <h3>Start Listening</h3>
                             <Link to={"/home"} className="btn">
-                                Start Listening
+                                Login In
                             </Link>
                         </div>
                     </div>
